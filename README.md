@@ -17,7 +17,6 @@
 - 🏗️ Worked as a SDE Intern at MathWorks and a problem setter intern at Coding Ninjas.
 - ⚡ Participated in several competitive coding competitions like Google Kickstart(Best Global Rank: 189), Facebook HackerCup(Qualified till Round2, AIR: 69) and Google Hash Code(AIR: 281), I am also an ICPC regionalist 2020 with AIR-137 at Gwalior Regionals and AIR 282 at Asia-Amritapuri Regionals.
 - 🌊 I am proficient in working with C++, React.js, Javascript.
-<!-- - 🗾 Besides programming, I love watching Anime and reading Manga. -->
 - ⚡ I mostly write JavaScript for dev and C++ for competitive programming.
 
 ---
